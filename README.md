@@ -11,16 +11,19 @@
 
 ---
 
-<p align=center>
-    <a href="https://linkedin.com/in/hungpham3112" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.facebook.com/phamhung311202" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/facebook.svg" alt=facebook style="margin-bottom: 5px;" />
-    </a>
-    <a href="mailto:phamhung20022015@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
-    </a>
+<p align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/diego-yeferson-" target="_blank" style="margin: 0 20px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt="LinkedIn" width="44"/>
+  </a>
+---------------
+
+  <!-- Email -->
+  <a href="mailto:diego.yeferson.quispe@gmail.com" target="_blank" style="margin: 0 20px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt="Email" width="44"/>
+  </a>
+
 </p>
 
 ---
