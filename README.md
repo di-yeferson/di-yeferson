@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/diego-yeferson-" target="_blank" style="margin: 0 20px; display: inline-block;">
     <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt="LinkedIn" width="44"/>
   </a>
----------------
+--
 
   <!-- Email -->
   <a href="mailto:diego.yeferson.quispe@gmail.com" target="_blank" style="margin: 0 20px; display: inline-block;">
